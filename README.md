@@ -1,1 +1,1 @@
-# -BrightTV-Viewership-Analytics-Case-Study
+# BrightTV-Viewership-Analytics-Case-Study
